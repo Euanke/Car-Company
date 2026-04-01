@@ -1,6 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
+#include <stdexcept>
 using namespace std;
 
 string companyName = "CarWorld Ltd";
